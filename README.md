@@ -1,4 +1,4 @@
-[![MasterHead](https://image.shutterstock.com/image-vector/animator-sitting-workplace-creating-motion-600w-1853485123.jpg)](https://rishavchanda.io)
+<!-- [![MasterHead](https://image.shutterstock.com/image-vector/animator-sitting-workplace-creating-motion-600w-1853485123.jpg)](https://rishavchanda.io) -->
 <h1 align="center">Venkataravindra P V</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="Coding" width="250"src="https://pbs.twimg.com/media/FDDnpabUUAQ1yJF?format=jpg&name=large">
