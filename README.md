@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **venkataravindrapv@gmail.com**
 
-- ⚡ Fun fact **I think iam invocent**
+- ⚡ Fun fact **I think iam innocent**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
